@@ -1,0 +1,14 @@
+{
+  "id": "drawPad",
+  "name": "Draw Pad",
+  "description": "Scratch-pad popout for quick sketches with pen, marker and eraser",
+  "version": "0.2.0",
+  "author": "SpreadSheets600",
+  "license": "MIT",
+  "icon": "draw",
+  "type": "widget",
+  "capabilities": ["dankbar-widget"],
+  "component": "./DrawPadWidget.qml",
+  "requires_dms": ">=2.0.0",
+  "permissions": ["settings_read", "settings_write"]
+}
