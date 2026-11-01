@@ -14,7 +14,7 @@ A scratch-pad popout for [Dank Material Shell](https://danklinux.com) (DMS). Cli
 
 ## Install
 ```sh
-git clone https://github.com/SpreadSheets600/dms-drawpad ~/.config/DankMaterialShell/plugins/drawPad
+git clone https://github.com/SpreadSheets600/duxDrawPad ~/.config/DankMaterialShell/plugins/drawPad
 dms restart
 ```
 Then enable **Draw Pad** in DMS Settings → Plugins and add it to a Dank Bar section.
